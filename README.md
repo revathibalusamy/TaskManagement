@@ -1,10 +1,9 @@
-# Project Management Software as a Service Application
+# Task Management
 
-I have created this application as a part of my learning process of some advanced topics in architecture, multi-tenant applications, etc.    
+
+I have created this application as a part of  some advanced topics in architecture, multi-layered applications, etc.    
 
 The application consists of a landing page where User can log in to an existing account or register a new Company (the main tenant of the Application is the Company entity). A user who registers a Company is Administrator, and that User can invite new Users to the Company. Each Company can have n number of Projects and each Project can have n number of Tasks.    
-
-![Project Overview](ProjectManagement/Documentation/Screenshots/project-overview.png "Project Overview page")
 
 
 ## Built With
